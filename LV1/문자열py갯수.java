@@ -1,4 +1,3 @@
-package LV1;
 
 public class 문자열py갯수 {
     class Solution {
